@@ -1,0 +1,26 @@
+# SEO Values
+title: dani-77
+tagline: daniazevedo77 CRUX Coreboot dani-77
+description: CRUX/Coreboot related personal webpage 
+url: https://dani-77.github.io
+twitter: https://twitter.com/daniazevedo77
+logo: https://draculatheme.com/static/icons/pack-1/045-dracula.svg
+
+# Google Analytics ID
+google_analytics:
+
+# GitHub Values
+github:
+  owner_name: dani-77
+  owner_url: https://github.com/dani-77
+  repository_url: https://github.com/dracula/gh-pages
+
+show_downloads: true
+show_header: false
+remote_theme: "dracula/gh-pages"
+
+sass:
+    style: compressed
+
+plugins:
+  - jekyll-seo-tag
