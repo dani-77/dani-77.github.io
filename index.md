@@ -23,7 +23,7 @@ The nearest one, that I still have installed in one of my machines, was Void.
 
 The simplicity, frugality and sane config options of CRUX convinced me; it's a hell to start, but once you get to know it, it is fantastic!
 
-That is why I already have my d77crux ports repo; it is available [here](https://github.com/dani-77/d77crux).
+my CRUX ports repo is available [here](https://github.com/dani-77/d77crux).
 
 
 # Coreboot
@@ -34,9 +34,7 @@ this will be my new coreboot bootsplash.
 
 ![bootsplash](/img/backI.png).
 
-What do you think?
-
-My available BIOS for:
+My available BIOS roms
 
  [x200](https://github.com/dani-77/x200), [t400](https://github.com/dani-77/t400), [x201](https://github.com/dani-77/x201), [x220](https://github.com/dani-77/x220), [x220t](https://github.com/dani-77/x220t), [t420](https://github.com/dani-77/t420), [x230](https://github.com/dani-77/x230), [x230t](https://github.com/dani-77/x230t), [t430](https://github.com/dani-77/t430), [x1c](https://github.com/dani-77/x1-carbon-gen-1), [t440p](https://github.com/dani-77/t440p), [HP-8470p](https://github.com/dani-77/HP-8470p-Coreboot), [HP-2560p](https://github.com/dani-77/HP-2560p-Coreboot)
 
@@ -45,21 +43,9 @@ My available BIOS for:
 
 ### Software
 
-[Suckless](https://suckless.org)
-
-[StaLi](https://sta.li/)
-
-[CRUX](https://crux.nu)
-
-[Void](https://voidlinux.org/)
+[Suckless](https://suckless.org) [StaLi](https://sta.li/) [CRUX](https://crux.nu) [Void](https://voidlinux.org/)
 
 ### Hardware
 
-[Coreboot](https://coreboot.org)
-
-[Libreboot](https://libreboot.org)
-
-[Heads](https://osresearch.net/)
-
-[Dasharo](https://www.dasharo.com)
+[Coreboot](https://coreboot.org) [Libreboot](https://libreboot.org) [Heads](https://osresearch.net/) [Dasharo](https://www.dasharo.com)
 
