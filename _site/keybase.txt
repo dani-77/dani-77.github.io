@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/dani77
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dani-77.github.io
+  * I am dani77 (https://keybase.io/dani77) on keybase.
+  * I have a public key ASC4cvgmKlWOojkfdoZsOTKUvUC8HRZN6b4fIEgo1bc7-Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101918fa8108c1f382b4d36e745fcfc190362a485aa8ad331c80f965b1d75d5e6f60a",
+      "host": "keybase.io",
+      "kid": "0120b872f8262a558ea2391f76866c393294bd40bc1d164de9be1f204828d5b73bf90a",
+      "uid": "0ab86ed8929051f20bc7293a90894619",
+      "username": "dani77"
+    },
+    "merkle_root": {
+      "ctime": 1714956998,
+      "hash": "a0617a07b82b765114d20c5a13263ceed24f755633824fdd36601af59c4449b10a5dbd9a4d7b6e9341561e200827d2c9233ecc5e0f52e8452efa1e3ed94ddb6f",
+      "hash_meta": "2ea4e12e619f92244f7c7fe1466cb60389fdf4624cce60659cf1c11d9ae90b5b",
+      "seqno": 25700857
+    },
+    "service": {
+      "entropy": "dyEZgUR3GChJW1t5wmiOGJyG",
+      "hostname": "dani-77.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.8"
+  },
+  "ctime": 1714957047,
+  "expire_in": 504576000,
+  "prev": "55ee65ad01571b5c4ed1be6e92497ab27f51c8bb15c9b010c4cddadd4e73409b",
+  "seqno": 127,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEguHL4JipVjqI5H3aGbDkylL1AvB0WTem+HyBIKNW3O/kKp3BheWxvYWTESpcCf8QgVe5lrQFXG1xO0b5ukkl6sn9RyLsVybAQxM3a3U5zQJvEIMeiE+GGVK7ax2lAtgsc/QI+CyteacSHUtsyhFq1YnQSAgHCo3NpZ8RATut5VL0tfLQakjt5LlywsHfpPpoVXEGc2KZLqdsiqqyvVINvVoQY1umc/idoFhzfzdlaaWm+YpoM3TcPG/FhD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILIEInsudkfYNcmAfa4nmaYV1DwwT6cvWpqPkFBKKaVeo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dani77
+
+==================================================================
