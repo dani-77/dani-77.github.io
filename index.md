@@ -25,7 +25,9 @@ The simplicity, frugality and sane config options of CRUX convinced me; it's a h
 
 my CRUX ports repo is available [here](https://github.com/dani-77/d77crux).
 
-NEW: My d77crux ports repo is increasing in ports; after my vacations I added like 15 or more ports, having a system that already suits my needs in every aspect. Will probably port less often from now on.
+## NEW: 
+
+My d77crux ports repo is increasing in ports; after my vacations I added like 15 or more ports, having a system that already suits my needs in every aspect. Will probably port less often from now on.
 
 
 # Coreboot
@@ -38,7 +40,9 @@ this will be my new coreboot bootsplash.
 
 My BIOS roms are available [here](https://github.com/dani-77/d77coreboot)
 
-NEW: After some research I added the iPXE build option to my roms; currently it is only tested on the Thinkpad X230 (the only I have available at moment) and is working fine.
+## NEW: 
+
+After some research I added the iPXE build option to my roms; currently it is only tested on the Thinkpad X230 (the only I have available at moment) and is working fine.
 
 # Links
 
