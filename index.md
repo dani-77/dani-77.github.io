@@ -36,13 +36,13 @@ Hello,
 
 this will be my new coreboot bootsplash.
 
-![bootsplash](/img/backI.jpg).
+![bootsplash](/img/backI.jpg)
 
 My BIOS roms are available [here](https://github.com/dani-77/d77coreboot)
 
 ## NEW: 
 
-After some research I added the iPXE build option to my roms; currently it is only tested on the Thinkpad X230 (the only I have available at moment) and it works fine.
+After some research I added the iPXE build option to my roms; currently it is only tested on the X230 and T430 Thinkpads.
 
 # Links
 
