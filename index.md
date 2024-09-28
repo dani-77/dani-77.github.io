@@ -22,7 +22,7 @@ The excellent scratchpkg is a upgrade to prt-get from CRUX; it works really well
 
 The community is very helpful and always accessible at telegram.
 
-But I was missing a few components that I had ported to CRUX, so decided to port them to Venom as well.After a few years in Arch, decided was time to try new things as daily driver;
+But I was missing a few components that I had ported to CRUX, so decided to port them to Venom as well.
 
 my Venom ports repo is available [here](https://github.com/dani-77/d77venom)
 
