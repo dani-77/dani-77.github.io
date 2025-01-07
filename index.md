@@ -14,6 +14,20 @@ My name is Daniel, I'm a pharmacist and an open source enthusiast.
 
 . old hardware and its resurrection for today's use.
 
+# d77void
+
+I had been interested in developing "my own" Linux operating system for some time and so I decided to take a solid system like Void to make my respin with an easy to use window manager (both ideal for newbies and experienced users) with my usual suite of apps (abiword, gnumeric, scribus, zathura, nextcloud, cmus, mpv, github-client, firefox, geary).
+
+Initially the idea was to have my own system ready to install on the computers that pass through my hands for testing.
+
+After I had it ready however I thought: why not make it available on sourceforge?
+
+If anyone is interested, even just seeing how good it works, here is the link:
+
+[![Download d77void](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/d77void/files/latest/download)
+
+If you test or use it, be sure to make your suggestions or repairs; I'd love to hear what you have to say.
+ 
 # Venom ports
 
 Trying a new OS; it's called Venom Linux. Very similar in ideas and work to CRUX, but simpler to install and maintain.
