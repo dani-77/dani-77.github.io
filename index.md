@@ -22,7 +22,7 @@ Initially the idea was to have my own system ready to install on the computers t
 
 After I had it ready however I thought: why not make it available on sourceforge?
 
-If anyone is interested, even just seeing how good it works, here is the link:
+If anyone is interested, even just seeing how it works, here is the link:
 
 [![Download d77void](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/d77void/files/latest/download)
 
