@@ -20,6 +20,8 @@ My name is Daniel, I'm a pharmacist and an open source enthusiast.
 
 I had been interested in developing "my own" Linux operating system for some time and so I decided to take a solid system like Void to make my respin with an easy to use window manager like Fluxbox/Openbox (both ideal for newbies and experienced users) with my usual suite of apps (abiword, gnumeric, scribus, zathura, nextcloud, cmus, mpv, github-client, firefox, geary).
 
+Later I added a new iso with DWM as window manager; this one is targeted at power users because it isn't as familiar to use as Fluxbox or Openbox. Even though it is very straightforward to use, the new comers might feel some animosity using it.
+
 Initially the idea was to have my own system ready to install on the computers that pass through my hands for testing.
 
 After I had it ready however I thought: why not make it available on sourceforge?
