@@ -32,8 +32,8 @@ If you test or use it, be sure to make your suggestions or repairs; I'd love to 
 
 ## NEW:
 
-Later I added a new iso with DWM and Sway (wayland) as window managers; these are targeted at power users because they aren't as familiar to use as Fluxbox or Openbox. Even though they are very straightforward to use, the new comers might feel some animosity using them for the first time.
- 
+Later I added new isos with DWM and Sway (wayland) as window managers; these are targeted at power users because they aren't as familiar to use as Fluxbox or Openbox. Even though they are very straightforward to use, the new comers might feel some animosity using them for the first time.
+
 # CRUX ports
 
 After a few years in Arch, decided was time to try new things as daily driver;
