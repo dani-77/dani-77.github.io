@@ -32,7 +32,7 @@ If you test or use it, be sure to make your suggestions or repairs; I'd love to 
 
 ## NEW:
 
-Later I added a new iso with DWM as window manager; this one is targeted at power users because it isn't as familiar to use as Fluxbox or Openbox. Even though it is very straightforward to use, the new comers might feel some animosity using it.
+Later I added a new iso with DWM and Sway (wayland) as window managers; these are targeted at power users because they aren't as familiar to use as Fluxbox or Openbox. Even though they are very straightforward to use, the new comers might feel some animosity using them for the first time.
  
 # CRUX ports
 
