@@ -16,6 +16,7 @@ My name is Daniel, I'm a pharmacist and an open source enthusiast.
 
 # d77void
 
+[![Download d77void](https://img.shields.io/sourceforge/dm/d77void.svg)](https://sourceforge.net/projects/d77void/files/latest/download)
 
 ![grub](/img/splash.png)
 
