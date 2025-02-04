@@ -16,13 +16,6 @@ My name is Daniel, I'm a pharmacist and an open source enthusiast.
 
 # d77void
 
-<!-- Begin SF Tag -->
-<div class="sf-root" data-id="3836457" data-badge="oss-rising-star-white" data-metadata="achievement=oss-rising-star" style="width:125px">
-    <a href="https://sourceforge.net/projects/d77void/" target="_blank">d77void</a>
-</div>
-<script>(function () {var sc=document.createElement('script');sc.async=true;sc.src='https://b.sf-syn.com/badge_js?sf_id=3836457';var p=document.getElementsByTagName('script')[0];p.parentNode.insertBefore(sc, p);})();
-</script>
-<!-- End SF Tag -->
 
 ![grub](/img/splash.png)
 
