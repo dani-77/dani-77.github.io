@@ -18,7 +18,7 @@ My name is Daniel, I'm a pharmacist and an open source enthusiast.
 
 [![Download d77void](https://img.shields.io/sourceforge/dm/d77void.svg)](https://sourceforge.net/projects/d77void/files/latest/download)
 
-[![Download d77void] (https://a.fsdn.com/con/app/syndication/badge_img_direct/oss-rising-star/oss-rising-star/?variant_id=sf)
+[![Download d77void] (https://a.fsdn.com/con/app/syndication/badge_img_direct/oss-rising-star/oss-rising-star)
 
 ![grub](/img/splash.png)
 
