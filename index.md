@@ -24,7 +24,7 @@ I had been interested in developing "my own" Linux operating system for some tim
 
 Initially the idea was to have my own system ready to install on the computers that pass through my hands for testing.
 
-After I had it ready however I thought: why not make it available on SourceForge? The first iso I launched was Fluxbox, followed by Openbox and dwm (X11 WM); later I added Sway and Labwc (Wayland WM).
+After I had it ready however I thought: why not make it available on SourceForge? The first iso I launched was Fluxbox, followed by Openbox and dwm (all X11 WM); later I added Sway and Labwc (both Wayland WM).
 
 Latest iso link here
 
