@@ -32,7 +32,7 @@ I´ll leave the direct link here:
 
 If you test or use it, be sure to make your suggestions or repairs; I'd love to hear what you have to say and I´ve created a Discord server to answer your doubts and sugestions/needs.
 
-[![discord]](https://discord.gg/EjAEychb)
+. [![[Discord](https://i.redd.it/6jupfeilyhx71.jpg)]](https://discord.gg/EjAEychb)
 
 # CRUX ports
 
