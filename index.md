@@ -26,7 +26,7 @@ Initially the idea was to have my own system ready to install on the computers t
 
 After I had it ready however I thought: why not make it available on SourceForge? The first iso I launched was Fluxbox, followed by Openbox and dwm (X11 WM); later I added Sway and Labwc (Wayland WM).
 
-I´ll leave the direct link here [![Download d77void](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/d77void/files/latest/download)
+I´ll leave the direct link here   [![Download d77void](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/d77void/files/latest/download)
 
 If you test or use it, be sure to make your suggestions or repairs; I'd love to hear what you have to say and I´ve created a Discord server to answer your doubts and sugestions/needs.
 
