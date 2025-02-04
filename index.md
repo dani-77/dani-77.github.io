@@ -18,7 +18,7 @@ My name is Daniel, I'm a pharmacist and an open source enthusiast.
 
 ![grub](/img/splash.png)
 
-[![Download d77void](https://img.shields.io/sourceforge/dt/d77void.svg)](https://sourceforge.net/projects/d77void/files/latest/download)
+[![Download d77void](https://img.shields.io/sourceforge/dt/d77void.svg)](https://sourceforge.net/projects/d77void/files/latest/download) [![Download d77void](https://sourceforge.net/cdn/syndication/badge_img/3836457/oss-rising-star-white?achievement=oss-rising-star&r=https://sourceforge.net/p/d77void/admin/files-sf/badges/)
 
 I had been interested in developing "my own" Linux operating system for some time and so I decided to take a solid system like Void to make my respin with an easy to use window manager like Fluxbox/Openbox (both ideal for newbies and experienced users) with my usual suite of apps (abiword, gnumeric, scribus, zathura, nextcloud, cmus, mpv, github-client, firefox, geary).
 
