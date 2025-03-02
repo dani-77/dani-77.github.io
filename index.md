@@ -24,7 +24,7 @@ I had been interested in developing "my own" Linux operating system for some tim
 
 Initially the idea was to have my own system ready to install on the computers that pass through my hands for testing.
 
-After I had it ready however I thought: why not make it available on SourceForge? The first iso I launched was Fluxbox, followed by Openbox and dwm (all X11 WM); later I added Sway and Labwc (both Wayland WM).
+After I had it ready however I thought: why not make it available on SourceForge? The first iso I launched was Fluxbox, followed by Openbox and dwm (all X11 WM); later I added Sway, Labwc and Hyprland (all Wayland WM).
 
 Latest iso link here
 
@@ -36,7 +36,7 @@ If you test or use it, be sure to make your suggestions or repairs; I'd love to 
 
 ## Latest:  
 
-iso of Hyprland available; it is experimental, depending on a outside Void repo, but is stable enough to be used everyday.
+Hybrid X11/Wayland iso of Qtile available; it is Beta, with already lots of work and config done, but still not a finished product.
 
 # CRUX ports
 
