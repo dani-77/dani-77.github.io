@@ -24,7 +24,9 @@ I had been interested in developing "my own" Linux operating system for some tim
 
 Initially the idea was to have my own system ready to install on the computers that pass through my hands for testing.
 
-After I had it ready however I thought: why not make it available on SourceForge? The first iso I launched was Fluxbox, followed by Openbox and dwm (all X11 WM); later I added Sway, Labwc and Hyprland (all Wayland WM).
+After I had it ready however I thought: why not make it available on SourceForge? The first iso I launched was Fluxbox.
+
+Evolved into a respin with multiple WM (awesome, bspwm, dwm, fluxbox, hyprland, labwc, leftwm, niri, openbox, qtile and sway) and the desktop environment LXQt.
 
 Latest iso link here
 
@@ -33,10 +35,6 @@ Latest iso link here
 If you test or use it, be sure to make your suggestions or repairs; I'd love to hear what you have to say and I´ve created a Discord server to answer your doubts and sugestions/needs.
 
 [![Discord](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c3e52ec5-bdc0-48d0-a056-c502907bee82/de6e02c-65e7eb73-c49a-4073-b25e-b32a7cac6515.png/v1/fill/w_128,h_128,strp/discord_pixel_icon_by_luxurialee_de6e02c-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4IiwicGF0aCI6IlwvZlwvYzNlNTJlYzUtYmRjMC00OGQwLWEwNTYtYzUwMjkwN2JlZTgyXC9kZTZlMDJjLTY1ZTdlYjczLWM0OWEtNDA3My1iMjVlLWIzMmE3Y2FjNjUxNS5wbmciLCJ3aWR0aCI6Ijw9MTI4In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.g7-pIsxrdV0ZACB-2mmUv-6y392ai-BAKTWMD1BNbfQ)](https://discord.gg/Q2u3T7b9Ny)
-
-## Latest:  
-
-Hybrid X11/Wayland iso of Qtile available; it is Beta, with already lots of work and config done, but still not a finished product.
 
 # CRUX ports
 
