@@ -26,7 +26,7 @@ Initially the idea was to have my own system ready to install on the computers t
 
 After I had it ready however I thought: why not make it available on SourceForge? The first iso I launched was Fluxbox.
 
-Evolved into a respin with multiple WM (awesome, bspwm, dwm, fluxbox, i3wm, hyprland, labwc, leftwm, niri, openbox, qtile and sway) and the desktop environment LXQt.
+Evolved into a respin with multiple WM (awesome, bspwm, dwm, fluxbox, i3wm, hyprland, labwc, leftwm, niri, openbox, qtile and sway) and the desktop environments LXQt and XFCE.
 
 Latest iso link here
 
@@ -49,8 +49,7 @@ my CRUX ports repo is available [here](https://github.com/dani-77/d77crux).
 
 ## NEW: 
 
-My d77crux ports repo is increasing in ports; since August I added like 15 or more ports, but having a system that already suits my needs in every aspect, will probably port less often from now on.
-
+I have been working on my Void respin and so d77crux repository for CRUX was outdated in several ports; I gave it a large refresh and now almost all ports are up to date.
 
 # Coreboot
 
