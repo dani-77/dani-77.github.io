@@ -26,7 +26,7 @@ Initially the idea was to have my own system ready to install on the computers t
 
 After I had it ready however I thought: why not make it available on SourceForge? The first iso I launched was Fluxbox.
 
-Evolved into a respin with multiple WM (awesome, bspwm, dwm, fluxbox, i3wm, hyprland, labwc, leftwm, niri, openbox, qtile, sway and wayfire) and the desktop environments Cosmic, LXQt and XFCE.
+Evolved into a respin with multiple WM (awesome, bspwm, dwm, fluxbox, i3wm, herbstluftwm, hyprland, JWM, labwc, leftwm, niri, openbox, qtile, river, sway and wayfire) and the desktop environments Cosmic, LXQt and XFCE.
 
 Latest iso link here
 
