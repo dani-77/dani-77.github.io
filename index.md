@@ -14,6 +14,19 @@ My name is Daniel, I'm a pharmacist and an open source enthusiast.
 
 . old hardware and its resurrection for today's use.
 
+# Window Managers
+
+For those who know me for some time it isn't a secret that I love WM and rarely use a Desktop environment.
+
+What you probably don't know is that after years on DWM and lately on Qtile and XMonad, I accepted the challenge 
+a good friend made me and wrote 2 WM based on the excellent lib Penrose.
+
+Penrose is a Rust lib to write tiling window managers developed by Innes Anderson-Morrison ![sminnez](https://github.com/sminez).
+
+With that lib and Penrose.ui I wrote the super simple PWM and WMD77.
+
+Check them out on my Github repositories.
+
 # d77void
 
 ![grub](/img/splash.png)
