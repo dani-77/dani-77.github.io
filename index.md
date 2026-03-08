@@ -82,7 +82,7 @@ My BIOS roms are available [here](https://github.com/dani-77/d77coreboot)
 
 ## NEW: 
 
-After some research I added the iPXE build option to my roms; currently it is only tested on the X230 and T430 Thinkpads.
+Added Thinkpad T480 and T480s Coreboot roms to the repository.
 
 # Links
 
