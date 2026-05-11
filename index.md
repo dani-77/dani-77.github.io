@@ -57,7 +57,9 @@ Available d77void repository; to use it create a file at /etc/xbps.d/repo.conf w
 
 Available d77-calamares repository; to use it create a file at /etc/xbps.d/calamares.conf with this: 
 
-repository=https://sourceforge.net/projects/d77void/files/d77-calamares
+**repository=https://sourceforge.net/projects/d77void/files/d77-calamares**
+
+
 # CRUX ports
 
 After a few years in Arch, decided was time to try new things as daily driver;
